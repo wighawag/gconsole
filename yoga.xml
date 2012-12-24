@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project>
+	<yoga-version>1</yoga-version>
+	<compiler-version>2.10</compiler-version>
+	
+	<id>com.wighawag.wighawag-gconsole</id>
+	<version>0.1.0-SNAPSHOT</version>
+
+	
+	<sources>
+		<source path="src" />
+	</sources>
+	
+	
+	<targets hxml="compile">
+		
+	</targets>
+	
+	
+	
+	<dependencies>
+	</dependencies>
+</project>
